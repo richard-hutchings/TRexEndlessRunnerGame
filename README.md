@@ -1,2 +1,2 @@
 # TRexEndlessRunnerGame
-T Rex Endless running game
+T Rex Endless running game created with C# in Visual Studio
