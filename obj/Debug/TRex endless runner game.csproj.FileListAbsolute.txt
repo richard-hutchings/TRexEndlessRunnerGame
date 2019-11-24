@@ -1,0 +1,10 @@
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\obj\Debug\TRex endless runner game.csprojAssemblyReference.cache
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\obj\Debug\TRex_endless_runner_game.Form1.resources
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\obj\Debug\TRex_endless_runner_game.Properties.Resources.resources
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\obj\Debug\TRex endless runner game.csproj.GenerateResource.cache
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\obj\Debug\TRex endless runner game.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\bin\Debug\TRex endless runner game.exe.config
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\bin\Debug\TRex endless runner game.exe
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\bin\Debug\TRex endless runner game.pdb
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\obj\Debug\TRex endless runner game.exe
+C:\Users\richa\source\repos\TRex endless runner game\TRex endless runner game\obj\Debug\TRex endless runner game.pdb
